@@ -26,7 +26,7 @@ I'm a passionate software developer from El Salvador, specializing in backend de
 ### 📫 How to Reach Me  
 - GitHub: [EduardoMaravilla](https://github.com/EduardoMaravilla)  
 - LinkedIn: [EduardoMaravilla](https://www.linkedin.com/in/eduardomaravillag/)
-- Email: [Eduardo Maravilla](eduardomaravillag@gmail.com)  
+- Email: [Eduardo Maravilla](mailto:eduardomaravillag@gmail.com)  
 
 ### ⚡ Fun Fact  
 I love solving complex problems with elegant code and optimizing performance for better user experiences! 🚀  
