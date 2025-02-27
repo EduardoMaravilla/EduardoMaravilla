@@ -23,8 +23,7 @@ I'm a passionate software developer from El Salvador, specializing in backend de
 - Open source projects related to authentication, payment systems, or DevOps  
 - Innovative React & Spring Boot applications  
 
-### 📫 How to Reach Me  
-- GitHub: [EduardoMaravilla](https://github.com/EduardoMaravilla)  
+### 📫 How to Reach Me
 - LinkedIn: [EduardoMaravilla](https://www.linkedin.com/in/eduardomaravillag/)
 - Email: [Eduardo Maravilla](mailto:eduardomaravillag@gmail.com)  
 
